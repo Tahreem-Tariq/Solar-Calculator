@@ -29,6 +29,9 @@ theZone += 1;
         case 5:
             hrs = 4;
             break;
+        case 6:
+            hrs = 3.5;
+            break;
         default:
             hrs = 0;
  }
